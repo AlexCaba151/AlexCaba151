@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexCaba151
 - 👀 I’m interested in Learning everything
 - 🌱 I’m currently learning Python and PHP
-- 💞️ I’m looking to collaborate on and important proyect
+- 💞️ I’m looking to collaborate on and important project
 - 📫 How to reach me: Insta: @yerlin.alec21
 - 😄 Pronouns: He :D
 - ⚡ Fun fact: I love Potter movies XD
